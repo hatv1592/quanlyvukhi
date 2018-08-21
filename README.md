@@ -1,4 +1,4 @@
 # quanlyvukhi
-Weapen Manager
-Laravel 5.2
-Mysql
+#Weapen Manager
+#Laravel 5.2
+#Mysql
