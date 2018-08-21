@@ -1,2 +1,4 @@
 # quanlyvukhi
-Demo quản ly vu khi
+Weapen Manager
+Laravel 5.2
+Mysql
