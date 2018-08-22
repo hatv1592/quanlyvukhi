@@ -1,0 +1,17 @@
+.search-vukhi .levels {
+    display: table;
+    table-layout: fixed;
+}
+
+.search-vukhi .levels .level-item {
+    display: table-cell;
+    width: 20%;
+}
+
+.search-vukhi .levels .level-item:not(:last-child) {
+    border-right: 1px solid #cecece;
+}
+
+.search-vukhi .levels .level-item .form-group {
+    margin: 0;
+}

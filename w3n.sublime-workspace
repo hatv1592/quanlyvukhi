@@ -1,0 +1,1087 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"orderp",
+				"orderProduct	(OrderController.php)"
+			],
+			[
+				"det",
+				"detail	(OrderProducts.php)"
+			],
+			[
+				"Order",
+				"OrderProducts"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"print",
+				"print_f($var	(pre-print.sublime-snippet)"
+			],
+			[
+				"pre",
+				"pre	pre-print"
+			],
+			[
+				"from",
+				"from_date	(Orders.php)"
+			],
+			[
+				"re",
+				"ret	return"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/www/w3n/themes/introduce/w3ni335/views/layouts/product_category_level_1.php",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/www/w3n/themes/introduce/w3ni335/views/economy/product/category.php",
+			"settings":
+			{
+				"buffer_size": 5894,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/www/w3n/protected/modules/economy/controllers/ProductController.php",
+			"settings":
+			{
+				"buffer_size": 50572,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/www/w3n/themes/introduce/w3ni335/views/economy/product/category_level_1.php",
+			"settings":
+			{
+				"buffer_size": 1088,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"PHP CodeBeautifier"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 507.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/www/w3n",
+		"/D/www/w3n/protected",
+		"/D/www/w3n/protected/modules",
+		"/D/www/w3n/protected/modules/economy",
+		"/D/www/w3n/protected/modules/economy/controllers",
+		"/D/www/w3n/protected/modules/tour",
+		"/D/www/w3n/protected/modules/tour/controllers",
+		"/D/www/w3n/quantri",
+		"/D/www/w3n/quantri/protected",
+		"/D/www/w3n/quantri/protected/config",
+		"/D/www/w3n/quantri/protected/modules",
+		"/D/www/w3n/quantri/protected/modules/content",
+		"/D/www/w3n/quantri/protected/modules/content/controllers",
+		"/D/www/w3n/themes",
+		"/D/www/w3n/themes/introduce",
+		"/D/www/w3n/themes/introduce/w3ni300",
+		"/D/www/w3n/themes/introduce/w3ni300/views",
+		"/D/www/w3n/themes/introduce/w3ni300/views/layouts",
+		"/D/www/w3n/themes/introduce/w3ni300/views/modules",
+		"/D/www/w3n/themes/introduce/w3ni300/views/modules/productFilterInCat",
+		"/D/www/w3n/themes/introduce/w3ni300/views/modules/productFilterInCat/partial",
+		"/D/www/w3n/themes/introduce/w3ni304",
+		"/D/www/w3n/themes/introduce/w3ni304/css",
+		"/D/www/w3n/themes/introduce/w3ni304/views",
+		"/D/www/w3n/themes/introduce/w3ni304/views/economy",
+		"/D/www/w3n/themes/introduce/w3ni304/views/economy/product",
+		"/D/www/w3n/themes/introduce/w3ni335",
+		"/D/www/w3n/themes/introduce/w3ni335/css",
+		"/D/www/w3n/themes/introduce/w3ni335/views",
+		"/D/www/w3n/themes/introduce/w3ni335/views/economy",
+		"/D/www/w3n/themes/introduce/w3ni335/views/economy/product",
+		"/D/www/w3n/themes/introduce/w3ni335/views/layouts"
+	],
+	"file_history":
+	[
+		"/D/www/w3n/themes/introduce/w3ni343/views/layouts/main.php",
+		"/D/www/w3n/protected/modules/economy/controllers/ProductController.php",
+		"/D/www/w3n/quantri/protected/modules/content/controllers/RealestateController.php",
+		"/D/www/w3n/css/main.css",
+		"/D/www/w3n/themes/introduce/w3ni343/js/script.js",
+		"/D/www/w3n/themes/introduce/w3ni343/views/modules/productFilterInCat/view.php",
+		"/D/www/w3n/common/models/widgets/MenusAdmin.php",
+		"/D/www/w3n/quantri/protected/modules/economy/views/order/order_product.php",
+		"/D/www/w3n/common/messages/vi/shoppingcart.php",
+		"/D/www/w3n/protected/modules/tour/controllers/TourController.php",
+		"/D/www/w3n/quantri/protected/modules/economy/controllers/OrderController.php",
+		"/D/www/w3n/common/models/economy/OrderProducts.php",
+		"/D/www/w3n/protected/modules/economy/controllers/OrderController.php",
+		"/D/www/w3n/common/classs/ClaAdminMenu.php",
+		"/D/www/w3n/quantri/protected/modules/setting/controllers/SitemenuController.php",
+		"/D/www/w3n/quantri/protected/modules/economy/controllers/CommentController.php",
+		"/D/www/w3n/quantri/protected/modules/interface/controllers/MenuController.php",
+		"/D/www/w3n/quantri/protected/modules/economy/views/comment/update.php",
+		"/D/www/w3n/common/models/economy/Orders.php",
+		"/D/www/w3n/common/messages/vi/product.php",
+		"/D/www/w3n/quantri/protected/modules/economy/views/order/_search.php",
+		"/D/www/w3n/quantri/protected/modules/economy/views/order/__products.php",
+		"/C/Users/MyPC/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/MyPC/AppData/Roaming/Sublime Text 3/Packages/User/pre-print.sublime-snippet",
+		"/D/www/w3n/themes/introduce/w3ni304/views/economy/product/detail.php",
+		"/D/www/w3n/themes/introduce/w3ni304/views/layouts/product.php",
+		"/D/www/w3n/quantri/protected/modules/economy/views/course/index.php",
+		"/D/www/w3n/quantri/protected/modules/economy/views/course/partial/tab_basic_info.php",
+		"/C/Users/MyPC/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/www/w3n/themes/introduce/w3ni343/views/modules/productFilterInCat/manufacturersFilter.php",
+		"/D/www/w3n/themes/introduce/w3ni343/views/modules/productFilterInCat/partial_2/multiselect.php",
+		"/C/Users/MyPC/AppData/Roaming/Sublime Text 3/Packages/User/nut-tat.sublime-snippet",
+		"/D/www/w3n/quantri/protected/config/main.php",
+		"/D/www/w3n/quantri/protected/modules/setting/controllers/BonusPointController.php",
+		"/D/www/w3n/quantri/protected/modules/setting/controllers/SettingController.php",
+		"/D/www/w3n/themes/introduce/w3ni343/views/economy/product/saleproduct.php",
+		"/D/www/w3n/themes/introduce/w3ni331/views/modules/productpromotioninhome/view.php",
+		"/C/Users/MyPC/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/www/w3n/themes/introduce/w3ni331/views/layouts/product_detail.php",
+		"/C/Users/MyPC/AppData/Roaming/Sublime Text 3/Packages/QuickGotoAnything/README.md",
+		"/C/Users/MyPC/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/MyPC/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/D/www/w3n/protected/modules/economy/views/order/_search.php",
+		"/D/www/w3n/common/models/media/Files.php",
+		"/D/www/w3n/protected/modules/economy/controllers/ShoppingcartController.php",
+		"/D/www/w3n/protected/modules/economy/controllers/BpnController.php",
+		"/D/www/w3n/protected/modules/economy/views/product/group.php",
+		"/D/www/w3n/protected/modules/economy/views/product/saleproduct.php",
+		"/D/www/w3n/themes/introduce/w3ni343/views/modules/productFilterInCat/partial/multiselect.php",
+		"/D/www/w3n/themes/introduce/w3ni343/views/modules/productFilterInCat/partial_2/view.php",
+		"/D/www/w3n/themes/introduce/w3ni343/views/modules/productFilterInCat/manufacturersFilter_2.php",
+		"/D/www/w3n/themes/introduce/w3ni300/views/layouts/main.php",
+		"/D/www/w3n/themes/introduce/w3ni343/views/modules/productFilterInCat/view_11.php",
+		"/D/www/w3n/common/widgets/modules/roomInHotel/roomInHotel.php",
+		"/D/www/w3n/common/models/tour/TourHotelRoom.php",
+		"/D/www/w3n/common/widgets/modules/question/relquestion/views/view.php",
+		"/D/www/w3n/themes/introduce/w3ni343/views/layouts/album.php",
+		"/D/www/w3n/common/models/widgets/Widgets.php",
+		"/C/Users/MyPC/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/D/www/w3n/common/models/media/Folders.php",
+		"/C/Users/MyPC/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/D/www/w3n/common/models/widgets/MenuGroups.php",
+		"/D/www/w3n/common/models/widgets/config_newquestion.php",
+		"/D/www/w3n/common/models/widgets/config_productcategoryinhome.php",
+		"/D/www/w3n/common/models/news/QuestionAnswer.php",
+		"/D/www/w3n/common/widgets/modules/question/relquestion/relquestion.php",
+		"/D/www/w3n/common/models/widgets/config_relquestion.php",
+		"/D/www/w3n/protected/modules/economy/views/question/detail.php",
+		"/D/www/w3n/themes/introduce/w3ni304/views/modules/hotproduct/view_43.php",
+		"/D/www/w3n/themes/introduce/w3ni304/views/layouts/main.php",
+		"/D/www/w3n/themes/introduce/w3ni304/views/modules/hotproduct/view_2505.php",
+		"/D/www/w3n/themes/introduce/w3ni304/css/style.css",
+		"/D/www/w3n/themes/introduce/w3ni304/views/modules/hotproduct/view_6.php",
+		"/D/www/w3n/themes/introduce/w3ni304/views/modules/productsetnew/view_2503.php",
+		"/D/www/w3n/themes/introduce/w3ni304/views/layouts/media.php",
+		"/D/www/w3n/themes/introduce/w3ni304/views/modules/hotproduct/view.php",
+		"/D/www/w3n/admin/.htaccess",
+		"/D/www/w3n/robots.txt",
+		"/D/www/mebimsua/index.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\www\\w3n\\themes\\introduce\\w3ni335",
+			"<open folders>",
+			"D:\\www\\w3n\\",
+			"D:\\www\\w3n\\themes\\introduce\\w3ni304\\views\\modules\\hotproduct",
+			"D:\\www\\w3n\\themes\\introduce\\w3ni304\\views\\modules\\productsetnew",
+			"D:\\www\\w3n\\themes\\introduce\\w3ni304\\views\\modules\\hotproduct",
+			"D:\\www\\w3n"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"actioncategory",
+			"category",
+			"catego",
+			"POS_WIGET_BLOCK8",
+			"loading",
+			"bonusPoint",
+			"economy.order",
+			"order",
+			"pre",
+			"actionViewed",
+			"viewed",
+			"view",
+			"order_products",
+			"billing_name",
+			"name",
+			"\n            ",
+			"Orders",
+			"to_date",
+			"order_status",
+			"discount",
+			"php",
+			"bonus",
+			"bonuspoint",
+			"price",
+			"manufacturersFilter",
+			"link",
+			"data",
+			"MENU_GROUP_TYPE_CUSTOM",
+			"{\n",
+			"cont-chlq",
+			"colcenterask",
+			"top-colcenterask",
+			"box-info",
+			"hatv",
+			"304",
+			"3045",
+			"baokim",
+			"DocumentRoot \"D:/projects/w3nhatgit\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"DocumentRoot \"D:/www/w3n\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/www/w3n/themes/introduce/w3ni335/views/layouts/product_category_level_1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/www/w3n/themes/introduce/w3ni335/views/economy/product/category.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/www/w3n/protected/modules/economy/controllers/ProductController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9333.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/www/w3n/themes/introduce/w3ni335/views/economy/product/category_level_1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1033,
+								1033
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "w3n.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"productcontroller",
+				"protected\\modules\\economy\\controllers\\ProductController.php"
+			],
+			[
+				"w3ni343/main",
+				"themes\\introduce\\w3ni343\\views\\layouts\\main.php"
+			],
+			[
+				"main.css",
+				"css\\main.css"
+			],
+			[
+				"productcontroller/",
+				"quantri\\protected\\modules\\content\\controllers\\RealestateController.php"
+			],
+			[
+				"w3ni343/",
+				"themes\\introduce\\w3ni343\\js\\script.js"
+			],
+			[
+				"menusa",
+				"common\\models\\widgets\\MenusAdmin.php"
+			],
+			[
+				"tourcon",
+				"protected\\modules\\tour\\controllers\\TourController.php"
+			],
+			[
+				"vi/shopp",
+				"common\\messages\\vi\\shoppingcart.php"
+			],
+			[
+				"orderproduct",
+				"quantri\\protected\\modules\\economy\\views\\order\\order_product.php"
+			],
+			[
+				"menucon",
+				"quantri\\protected\\modules\\setting\\controllers\\SitemenuController.php"
+			],
+			[
+				"adminmen",
+				"common\\classs\\ClaAdminMenu.php"
+			],
+			[
+				"adminmenu",
+				"quantri\\protected\\modules\\interface\\controllers\\MenuController.php"
+			],
+			[
+				"ordercontroller",
+				"quantri\\protected\\modules\\economy\\controllers\\OrderController.php"
+			],
+			[
+				"orderc",
+				"protected\\modules\\economy\\controllers\\OrderController.php"
+			],
+			[
+				"product",
+				"common\\messages\\vi\\product.php"
+			],
+			[
+				"vi/product",
+				"common\\messages\\vi\\product.php"
+			],
+			[
+				"commentco",
+				"quantri\\protected\\modules\\economy\\controllers\\CommentController.php"
+			],
+			[
+				"order_",
+				"quantri\\protected\\modules\\economy\\views\\order\\order_product.php"
+			],
+			[
+				"orderpro",
+				"common\\models\\economy\\OrderProducts.php"
+			],
+			[
+				"orders",
+				"common\\models\\economy\\Orders.php"
+			],
+			[
+				"orderp",
+				"common\\models\\economy\\OrderProducts.php"
+			],
+			[
+				"quantri/econo/ord",
+				"quantri\\protected\\modules\\economy\\controllers\\OrderController.php"
+			],
+			[
+				"304/product/detail",
+				"themes\\introduce\\w3ni304\\views\\economy\\product\\detail.php"
+			],
+			[
+				"304/product",
+				"themes\\introduce\\w3ni304\\views\\layouts\\product.php"
+			],
+			[
+				"vi/shoppingcart",
+				"common\\messages\\vi\\shoppingcart.php"
+			],
+			[
+				"quant/pro/order",
+				"quantri\\protected\\modules\\economy\\controllers\\OrderController.php"
+			],
+			[
+				"w3ni343/views/mo/filter",
+				"themes\\introduce\\w3ni343\\views\\modules\\productFilterInCat\\manufacturersFilter.php"
+			],
+			[
+				"w3ni331/product_de",
+				"themes\\introduce\\w3ni331\\views\\layouts\\product_detail.php"
+			],
+			[
+				"w3ni343/sale",
+				"themes\\introduce\\w3ni343\\views\\economy\\product\\saleproduct.php"
+			],
+			[
+				"shoppingcartcontroller",
+				"protected\\modules\\economy\\controllers\\ShoppingcartController.php"
+			],
+			[
+				"salepro",
+				"protected\\modules\\economy\\views\\product\\saleproduct.php"
+			],
+			[
+				"w3ni300/main",
+				"themes\\introduce\\w3ni300\\views\\layouts\\main.php"
+			],
+			[
+				"w3ni343/views/modules/productfilterincat/view.php",
+				"themes\\introduce\\w3ni343\\views\\modules\\productFilterInCat\\view.php"
+			],
+			[
+				"roominhotel.php",
+				"common\\widgets\\modules\\roomInHotel\\roomInHotel.php"
+			],
+			[
+				"common/widgets/modules/question/relquestion/views/view.php",
+				"common\\widgets\\modules\\question\\relquestion\\views\\view.php"
+			],
+			[
+				"w3ni343/main.p",
+				"themes\\introduce\\w3ni343\\views\\layouts\\main.php"
+			],
+			[
+				"w3ni343/main.php",
+				"themes\\introduce\\w3ni343\\views\\layouts\\main.php"
+			],
+			[
+				"questionanswer",
+				"common\\models\\news\\QuestionAnswer.php"
+			],
+			[
+				"relquestion.php",
+				"common\\widgets\\modules\\question\\relquestion\\relquestion.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\www\\font-end-wsp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 127.0,
+		"last_filter": "relquestion",
+		"selected_items":
+		[
+			[
+				"relquestion",
+				"config_relquestion"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

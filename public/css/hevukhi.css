@@ -1,0 +1,19 @@
+.hevukhi .text-left {
+    text-align: left!important;
+}
+
+.hevukhi .text-wrap {
+    word-break: break-all;
+}
+
+.hevukhi .width-percent-5 {
+    width: 5%;
+}
+
+.hevukhi .width-percent-50 {
+    width: 50%;
+}
+
+.hevukhi .panel_toolbox {
+    min-width: 0!important;
+}

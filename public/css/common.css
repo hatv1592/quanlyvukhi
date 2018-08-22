@@ -1,0 +1,56 @@
+.table-custom .text-left {
+    text-align: left !important;
+}
+
+.table-custom .text-right {
+    text-align: right !important;
+}
+
+.table-custom .text-center {
+    text-align: center !important;
+}
+
+.table-custom .vertical-middle {
+    vertical-align: middle;
+}
+
+.table-custom .text-wrap {
+    word-break: break-all;
+}
+
+.table-custom .width-percent-5 {
+    width: 5%;
+}
+
+.table-custom .width-percent-10 {
+    width: 10%;
+}
+
+.table-custom .width-percent-15 {
+    width: 15%;
+}
+
+.table-custom .width-percent-35 {
+    width: 35%;
+}
+
+.reset-min-with {
+    min-width: 0 !important;
+}
+
+.blur {
+    opacity: 0.2 !important;
+    pointer-events: none;
+}
+
+.icon-loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.table > thead > tr > th {
+    vertical-align: middle!important;
+}
